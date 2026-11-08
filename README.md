@@ -3,7 +3,7 @@
   <ul>
   <summary><h2>🖥️ Website: <a href="https://hadrian.cc">hadrian.cc</a></h2></summary>
   <summary><h2>⭐ Featured repos: <a href="https://hadrian.cc/projects">/projects</a></h2></summary>
-  <summary><h2>📚 All repos: <a href="https://github.com/udontur?tab=repositories">@udontur</a></h2></summary>
+  <summary><h2>📚 All repos: <a href="https://github.com/hhei48?tab=repositories">@hhei48</a></h2></summary>
   </ul>
 </div>
 
