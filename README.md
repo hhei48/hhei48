@@ -7,6 +7,6 @@
   </ul>
 </div>
 
-All of my public personal projects do not contain a single speck of AI vibe coded slop because I want to learn. I only use AI for repetitive tasks I already know how to do, review code against industry standards, or help me debug mega bugs that bugged me for hours. If some blowhard larping sheeples are wondering, I do not hate change, and I absolutely do know how to use AI tools and new stuff. 
+My public personal projects are not vibe coded using AI because I want to learn. I only use AI for repetitive tasks I already know how to do, review my code against industry standards, or help me debug mega bugs that bugged me for hours. If some blowhard larping sheeples are wondering, I do not hate change, and I know how to utilize AI tools and modern infrastructure.
 
-> *I intentionally keep my activity, stars, follows, badges, and other details private for privacy reasons. You can still browse my public repository activity on the repos page.*
+> *I intentionally keep my stars, follows, activity, badges, and other details private for privacy reasons. You can still browse my public repository activity on the repos page.*
